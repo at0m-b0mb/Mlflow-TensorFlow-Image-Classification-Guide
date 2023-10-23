@@ -6,7 +6,7 @@ Welcome to the Mlflow-TensorFlow-Guide project, created and maintained by Kailas
 This project is a TensorFlow and MLflow demonstration, showcasing the process of building, training, and evaluating a machine learning model using TensorFlow. It provides a step-by-step guide on how to set up the environment, load data, preprocess it, build and compile a model, and evaluate its performance.
 
 ## Project Links
-- GitHub Repository: [Mlflow-TensorFlow-Guide](https://github.com/at0m-b0mb/)
+- GitHub Repository: [Mlflow-TensorFlow-Guide]([https://github.com/at0m-b0mb/](https://github.com/at0m-b0mb/Mlflow-TensorFlow-Image-Classification-Guide)
 - LinkedIn: [Kailash Parshad's LinkedIn Profile](https://www.linkedin.com/in/kailash-parshad/)
 
 ## Getting Started

@@ -1,6 +1,9 @@
 # Mlflow-TensorFlow-Image-Classification-Guide
 
 Welcome to the Mlflow-TensorFlow-Guide project, created and maintained by Kailash Parshad, an Ethical Hacker, Penetration Tester, and Cybersecurity Enthusiast.
+## Install links
+- Python 3.9.13 :[Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
+- Anaconda: [Anaconda](https://www.anaconda.com/download/)
 
 ## Project Overview
 This project is a TensorFlow and MLflow demonstration, showcasing the process of building, training, and evaluating a machine learning model using TensorFlow. It provides a step-by-step guide on how to set up the environment, load data, preprocess it, build and compile a model, and evaluate its performance.

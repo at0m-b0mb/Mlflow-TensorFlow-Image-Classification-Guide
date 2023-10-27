@@ -2,7 +2,7 @@
 
 Welcome to the Mlflow-TensorFlow-Guide project, created and maintained by Kailash Parshad, an Ethical Hacker, Penetration Tester, and Cybersecurity Enthusiast.
 ## Install links
-- Python 3.9.13: [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
+- Python 3.10.11: [Python 3.10.11](https://www.python.org/downloads/release/python-31011/)
 - Anaconda: [Anaconda](https://www.anaconda.com/download/)
 - VScode: [VSCODE](https://code.visualstudio.com/download)
 

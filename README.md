@@ -29,7 +29,7 @@ To get started with this project, follow these steps:
    - Install project dependencies using pip.
 5. **Tensorflow Model Building**
    - Follow Guide pdf
-6. **Recording Tensoeflow model with MLflow**
+6. **Recording Tensorflow model with MLflow**
    - Follow Guide pdf
 ## Project Structure
 The project is structured as follows:

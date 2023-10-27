@@ -2,7 +2,7 @@
 
 Welcome to the Mlflow-TensorFlow-Guide project, created and maintained by Kailash Parshad, an Ethical Hacker, Penetration Tester, and Cybersecurity Enthusiast.
 ## Install links
-- Python 3.9.13 :[Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
+- Python 3.9.13: [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
 - Anaconda: [Anaconda](https://www.anaconda.com/download/)
 
 ## Project Overview
@@ -22,11 +22,14 @@ To get started with this project, follow these steps:
    - Activate the newly created Conda environment.
 
 3. **Install Jupyter Notebook:**
-   - Install Jupyter Notebook to run the provided Jupyter notebook.
+   - Install Jupyter Notebook to run the provided Jupyter Notebook.
 
 4. **Install Dependencies:**
    - Install project dependencies using pip.
-
+5. **Tensorflow Model Building**
+   - Follow Guide pdf
+6. **Recording Tensoeflow model with MLflow**
+   - Follow Guide pdf
 ## Project Structure
 The project is structured as follows:
 

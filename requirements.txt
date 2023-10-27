@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+imblearn
+matplotlib
+mlflow
+tensorflow==2.12.0

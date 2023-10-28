@@ -7,7 +7,7 @@ Welcome to the Mlflow-TensorFlow-Guide project, created and maintained by Kailas
 - VScode: [VSCODE](https://code.visualstudio.com/download)
 
 ## Instruction Video
-[Watch the Instruction Video]([https://www.youtube.com/watch?v=your_video_id](https://drive.google.com/file/d/1Ik9a_8ApIqdyX53ZMfryD68-B5DRSSDs/view?usp=drive_link))
+[Watch the Instruction Video](https://drive.google.com/file/d/1Ik9a_8ApIqdyX53ZMfryD68-B5DRSSDs/view?usp=sharing)
 
 
 ## Project Overview

@@ -6,6 +6,10 @@ Welcome to the Mlflow-TensorFlow-Guide project, created and maintained by Kailas
 - Anaconda: [Anaconda](https://www.anaconda.com/download/)
 - VScode: [VSCODE](https://code.visualstudio.com/download)
 
+## Instruction Video
+- Video tutorial [Watch the Instruction Video]([https://www.youtube.com/watch?v=your_video_id](https://drive.google.com/file/d/1Ik9a_8ApIqdyX53ZMfryD68-B5DRSSDs/view?usp=drive_link))
+
+
 ## Project Overview
 This project is a TensorFlow and MLflow demonstration, showcasing the process of building, training, and evaluating a machine learning model using TensorFlow. It provides a step-by-step guide on how to set up the environment, load data, preprocess it, build and compile a model, and evaluate its performance.
 

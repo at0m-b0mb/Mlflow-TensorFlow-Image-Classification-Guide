@@ -4,4 +4,5 @@ scikit-learn
 imblearn
 matplotlib
 mlflow
+jupyter
 tensorflow==2.12.0
